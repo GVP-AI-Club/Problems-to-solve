@@ -1,11 +1,10 @@
-# :warning: This is an ISSUE TEMPLATE :warning:
+# ⚠ This is an ISSUE TEMPLATE ⚠
 
 > Please look into the following issue instructions and fill in this issue template
 
+### 🖊 Description
 
-### :pen: A Short Description of your issue
 
-
-### :bug: Bug / Update Request:stars:
+### 🐛 Bug / Update Request 🌟
 
 

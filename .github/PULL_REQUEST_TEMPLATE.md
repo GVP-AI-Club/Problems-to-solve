@@ -1,4 +1,4 @@
-:warning: This is a Pull Request Template :warning:
+# ⚠ This is a Pull Request Template ⚠
 
 ## Types of changes
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
